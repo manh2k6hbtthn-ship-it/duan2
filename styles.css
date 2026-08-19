@@ -1,0 +1,10 @@
+.box {
+  background-color: aqua;
+  min-height: 100px;
+}
+body {
+  padding-bottom: 500px;
+}
+#card1 {
+  position: relative;
+}
